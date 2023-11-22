@@ -1,3 +1,3 @@
 # alura_midi
 
-pedro venturi,guilherme
+pedro venturi,thiago
